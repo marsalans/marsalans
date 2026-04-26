@@ -26,7 +26,7 @@ I am a Network and Systems Engineer based in Karachi, Pakistan. I manage ISP-lev
 | **Networking** | ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F26?style=flat-square&logo=mikrotik&logoColor=white) ![VyOS](https://img.shields.io/badge/VyOS-3B82F6?style=flat-square&logo=linux&logoColor=white) ![BIND9](https://img.shields.io/badge/BIND9-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
 | **Virtualization** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) |
 | **AI/Dev** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=flat-square&logo=meta&logoColor=white) |
-| **Hardware** | ![HP ProLiant](https://img.shields.io/badge/HP_ProLiant-00B388?style=flat-square&logo=hp&logoColor=white) ![Solar](https://img.shields.io/badge/Solar_Systems-FFD700?style=flat-square&logo=sunpower&logoColor=black) |
+| **Hardware** | ![HP ProLiant](https://img.shields.io/badge/HP_ProLiant-00B388?style=flat-square&logo=hp&logoColor=white) ![Dell](https://img.shields.io/badge/Dell-007CBA?style=flat-square&logo=dell&logoColor=white) ![Solar](https://img.shields.io/badge/Solar_Systems-FFD700?style=flat-square&logo=sunpower&logoColor=black) |
 
 ---
 
