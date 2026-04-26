@@ -43,15 +43,6 @@ I am a Network and Systems Engineer based in Karachi, Pakistan. I manage ISP-lev
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marsalans&theme=flat&column=7&no-bg=true" alt="marsalans trophies" />
-  </a>
-</p>
-
----
-
 ### 🌱 Current Projects & Focus
 * 🔨 Building a **Digital Prize Bond Checker** with OCR features.
 * 💨 Designing **Helical Wind Turbines** using PVC for local energy.
