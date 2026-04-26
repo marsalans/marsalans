@@ -62,7 +62,7 @@ I am a Network and Systems Engineer based in Karachi, Pakistan. I manage ISP-lev
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/linked-in-alt.svg" alt="Arsalan Siddiqui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marsalans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/linked-in-alt.svg" alt="Arsalan Siddiqui" height="30" width="40" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/marsalans/marsalans/output/github-contribution-grid-snake.svg" alt="Snake animation" />
