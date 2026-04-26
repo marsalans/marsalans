@@ -51,12 +51,23 @@ I am a Network and Systems Engineer based in Karachi, Pakistan. I manage ISP-lev
 
 ---
 
-### 📫 Connect with me
+### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/marsalans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/linked-in-alt.svg" alt="Arsalan Siddiqui" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/marsalans">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/marsalans">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/marsalans/marsalans/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 📈 GitHub Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marsalans&theme=react-dark&bg_color=0d1117&hide_border=true&color=3B82F6" />
+</p>
 
 ---
 *Last updated: April 2026*
